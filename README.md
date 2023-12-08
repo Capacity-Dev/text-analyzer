@@ -1,5 +1,5 @@
 # text-analyzer
-Une un simple éditeur de texte avec détection de langue
+Un simple éditeur de texte avec détection de langue
 
 ## Installation
 Clonez ce depôt 
